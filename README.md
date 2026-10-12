@@ -51,5 +51,5 @@ sha256sum -c pxq-quantize-v2026.09.20-linux-x86_64.tar.gz.sha256
 
 ## Community
 
-- Discord: https://discord.gg/EqazvV9tf
+- Discord: https://discord.pxanetwork.com
 - Support the work: https://ko-fi.com/shatteredrealms1
